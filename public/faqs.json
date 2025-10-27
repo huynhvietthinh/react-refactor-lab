@@ -1,0 +1,7 @@
+{
+    "faqs": [
+      { "id": 1, "sender": "bot", "text": "Chào bạn! Tôi là UniFAQ bot. Bạn cần giúp gì?" },
+      { "id": 2, "sender": "user", "text": "Chào bot, học phí của trường là bao nhiêu?" },
+      { "id": 3, "sender": "bot", "text": "Học phí cho năm học 2025-2026 là 20 triệu VNĐ mỗi học kỳ." }
+    ]
+  }
